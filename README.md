@@ -42,4 +42,19 @@ The 42 cursus is free for whoever is approved in its selection process. The so-c
 
 The table below presents the C Piscine's curriculum in chronological order in which it was completed by me - order of completed subjects and corresponding attained level may vary among students.
 
+|#	|PROJECT							|LANGUAGE	|EXPERIENCE	|STATUS						
+|-	|-								|-		|-		|-						
+|00	|[Shell00](./Shell00)						|Shell		|100 XP		|100% :heavy_check_mark:	
+|01	|[C00](./C00)							|C		|100 XP		| 85% :heavy_check_mark:		
+|02	|[C01](./C01)							|C		|100 XP		|100% :heavy_check_mark:		
+|03	|[C02](./C02)							|C		|100 XP		| 75% :heavy_check_mark:		
+|04	|[C03](./C03)							|C		|100 XP		| 75% :heavy_check_mark:		
+|05	|[C04](./C04)							|C		|100 XP		| 70% :heavy_check_mark:	
+|06	|[C05](./C05)							|C		|100 XP		| 60% :heavy_check_mark:	
+|07	|[C06](./C06)							|C		|100 XP		| 75% :heavy_check_mark:		
+|08	|[C07](./C07)							|C		|100 XP		| 60% :heavy_check_mark:					
+|09	|Exam00								|C		|225 XP		| 64% :heavy_check_mark:
+|10	|Exam01								|C		|225 XP		| 32% :heavy_check_mark:
+|11	|Exam02								|C		|225 XP		| 42% :heavy_check_mark:					
+|12	|Final Exam							|C		|375 XP		| 48% :heavy_check_mark:		
 
